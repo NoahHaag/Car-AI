@@ -1,7 +1,7 @@
 # Car-AI
-![image](http://url.to/image.png = 250x250)
 
-<img src="https://github.com/NoahHaag/Car-AI/blob/main/Assets/car.png" width="48">
+
+<img src="https://github.com/NoahHaag/Car-AI/blob/main/Assets/car.png" width="150">
 
 Teaching a car to drive a track using Q-Learning
 
