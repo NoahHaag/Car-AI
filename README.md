@@ -1,6 +1,6 @@
 # Car-AI
 
-![Car](Car.png)
+![Car](https://github.com/[NoahHaag]/[Car-AI]/blob/image.jpg?raw=true)
 Teaching a car to drive a track using Q-Learning
 
 The folder titled "Assets" includes images which include the car and the track
