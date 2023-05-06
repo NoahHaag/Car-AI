@@ -1,6 +1,6 @@
 # Car-AI
 
-![Car](https://github.com/NoahHaag/Car-AI/blob/main/Assets/car.png?raw=true)
+![Car](https://github.com/NoahHaag/Car-AI/blob/main/Assets/car.png? =250x250)
 
 Teaching a car to drive a track using Q-Learning
 
