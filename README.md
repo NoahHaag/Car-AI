@@ -1,6 +1,6 @@
 # Car-AI
 Teaching a car to drive a track using Q-Learning
 
-Add the car and track to a folder titled "Assets" to enable the code to find these images.
+The folder titled "Assets" includes images which include the car and the track
 
 The "user car" file includes code for you to drive the car yourself.
